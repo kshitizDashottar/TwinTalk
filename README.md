@@ -1,1 +1,1 @@
-The Twin-Talk project is a full-stack web application. It utilizes a modern tech stack, including ReactJS for the frontend, NodeJS and ExpressJS for the backend, MaterialUI for the user interface components, MongoDB as the database, Mongoose as the ODM (Object Data Modeling) library, and Socket.io for real-time communication.
+ 
